@@ -4,6 +4,7 @@ This BugTracker is a tool to report any issues, errors, bugs and broken mechanic
 we are going to keep Mograine being the highest quality Wrath of the Lich King realm in the world.
 
 # Report Template
+When creating a bug report, be sure to name it accordingly ("[MAGE] Blink doesn't work" instead of "mage skill bugged"). Please follow the following template while creating a report:
 
 **Description:**
 
@@ -15,7 +16,7 @@ Please explain what you did when you encountered the bug. What is your class, wh
 
 **How it should work:**
 
-Please explain how should it work. Describe the expected behavior and back it with evidence, such as YouTube video / screenshot / comments from relevant date (when WotLK was on retail)
+Please explain how should it work. Describe the expected behavior and back it with evidence, such as YouTube video / screenshot / comments from relevant date (when WotLK was live on retail).
 
 # When are you going to fix it?
 
