@@ -1,7 +1,7 @@
-# Whitemane BugTracker
+# Whitemane - Herod BugTracker
 
-This BugTracker is a tool to report any issues, errors, bugs and broken mechanics from the Mograine (Wrath of the Lich King) realm. With your reports and our skills,
-we are going to keep Mograine being the highest quality Wrath of the Lich King realm in the world.
+This BugTracker is a tool to report any issues, errors, bugs and broken mechanics from the Herod (Cataclysm) realm. With your reports and our skills,
+we are going to keep Herod being the highest quality Cataclysm realm in the world.
 
 # Report Template
 When creating a bug report, be sure to name it accordingly ("[MAGE] Blink doesn't work" instead of "mage skill bugged"). Please follow the following template while creating a report:
