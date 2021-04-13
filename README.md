@@ -8,7 +8,8 @@ When creating a bug report, be sure to name it accordingly ("[MAGE] Blink doesn'
 
 **Description:**
 
-Describe the bug you have encountered. Why do you think it's a bug?
+Describe the bug you have encountered. Why do you think it's a bug? 
+Enclose links to things related to the bug using for example http://wowhead.com/
 
 **How to reproduce:**
 
@@ -16,7 +17,7 @@ Please explain what you did when you encountered the bug. What is your class, wh
 
 **How it should work:**
 
-Please explain how should it work. Describe the expected behavior and back it with evidence, such as YouTube video / screenshot / comments from relevant date (when WotLK was live on retail).
+Please explain how should it work. Describe the expected behavior and back it with evidence, such as YouTube video / screenshot / comments from relevant date (when Cataclysm was live on retail).
 
 # When are you going to fix it?
 
