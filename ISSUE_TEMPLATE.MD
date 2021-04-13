@@ -1,3 +1,5 @@
+[/]: # (Add links to things related to the bug using for example http://wowhead.com)
+
 **Description:**
 
 
