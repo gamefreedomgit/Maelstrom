@@ -1,4 +1,4 @@
-[/]: # (Add links to things related to the bug using for example http://wowhead.com)
+[/]: # (REMBEMBER! Add links to things related to the bug using for example http://wowhead.com)
 
 **Description:**
 
@@ -7,4 +7,7 @@
 
 
 **How it should work:**
+
+
+**Wowhead links:**
 
