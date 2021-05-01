@@ -1,4 +1,7 @@
-[/]: # (REMBEMBER! Add links to things related to the bug using for example http://wowhead.com)
+[/]: #REMBEMBER! Add links to things related to the bug using for example:
+[/]: http://wowhead.com/
+[/]: cata-twinhead.twinstar.cz
+
 
 **Description:**
 
@@ -9,5 +12,5 @@
 **How it should work:**
 
 
-**Wowhead links:**
+**Database links:**
 
