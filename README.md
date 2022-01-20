@@ -1,4 +1,4 @@
-# Whitemane - Cataclysm BugTracker
+# Game Freedom: Maelstrom Cataclysm
 
 This BugTracker is a tool to report any issues, errors, bugs and broken mechanics from the Herod (Cataclysm) realm. With your reports and our skills,
 we are going to keep Herod being the highest quality Cataclysm realm in the world.
